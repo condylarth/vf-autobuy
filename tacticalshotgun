@@ -1,4 +1,9 @@
--- //  [ TACTICAL SHOTGUN ] -- \\
+-- //  [ DA STRIKE TACTICAL AUTO BUY ] -- \\
 while wait() do
     fireclickdetector(workspace.MAP.Pads['[Tactical Shotgun]'].ClickDetector)
+end
+
+-- //  [ DA UPHILL, DA DOWNHILL TACTICAL AUTO BUY ] -- \\
+while wait() do
+    fireclickdetector(workspace.MAP.BuyPads['[Tactical Shotgun]'].ClickDetector)
 end
