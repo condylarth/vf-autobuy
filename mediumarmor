@@ -1,4 +1,4 @@
 -- // [ MEDIUM ARMOR ] -- \\ 
 while wait() do
-    fireclickdetector(workspace.MAP.BuyPads['[Medium Armor]'].ClickDetector)
+    fireclickdetector(workspace.MAP.Pads['[Medium Armor]'].ClickDetector)
 end
