@@ -1,4 +1,4 @@
 -- //  [ USP ] -- \\
 while wait() do
-    fireclickdetector(workspace.MAP.BuyPads['[USP]'].ClickDetector)
+    fireclickdetector(workspace.MAP.Pads['[USP]'].ClickDetector)
 end
