@@ -1,2 +1,1 @@
-# vf-autobuy
-VoidFalls Auto Armor/Weapons
+# VoidFalls Auto Buy
